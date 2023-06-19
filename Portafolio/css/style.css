@@ -1,0 +1,204 @@
+:root{
+	--color-textos: #000;
+}
+
+body{
+	font-family: "Montserrat SemiBold";
+	font-size: 14px;
+	color: var(--color-textos);
+}
+
+header .bg-light{
+	margin-top: 30px;
+	background-color: transparent !important;
+}
+
+#hero{
+	background-image:url("../img/IMG_0121.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 12% 0;
+	height: 300px
+}
+
+#hero h1{
+font-family:  'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+color: #FFFFFF;
+font-size: 25px;
+}
+
+#fotos{
+margin-top: 130px;
+margin-bottom: 100px;
+color: #000000;
+}
+
+#fotos h2{
+margin-bottom: 100px;
+text-align: center;
+font-family:'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+font-weight: 700px;
+}
+
+#fotos img{
+object-fit: cover; 
+width: 450px;
+height: 450px;
+}
+
+#fotos img:hover{
+	opacity: 0.9;
+}
+
+
+.btn{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 20px;
+	border-color: #000000;
+	background-color: transparent;
+	color: #000000;
+	font-family: "Montserrat Light", "Montserrat Medium", "Montserrat ExtraBold", Montserrat;
+}
+
+.btn:hover{
+border-radius: 20px;
+border-color: #000000;
+background-color: #000000;
+color: #FFFFFF;	
+}
+
+#yo{
+	background-image: url("../img/acerca de mi-01.png");
+	background-size: cover;
+	background-position: center;
+	padding: 12% 0;
+	height: 600px
+}
+
+#yo p{
+	font-family: "Montserrat Light", "Montserrat Medium", "Montserrat ExtraBold", Montserrat;
+	font-size: 20px;
+	color: #FFFFFF;
+	text-align: right;
+}
+
+#conoceme h1{
+font-family:  'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+color: #4B4B4B;
+font-size: 30px;
+text-align: center;
+margin-bottom: 30px;
+}
+
+#carousel h2{
+font-family: 'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+color: #000000;
+font-size: 40px;
+text-align: left;
+margin-top: 360px;
+	}
+
+#video{
+margin-top: 150px;
+}
+
+#video h2{
+font-family: 'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+color: #000000;
+font-size: 40px;
+text-align: right;
+margin-top: 360px;
+	}
+
+#contacto{
+margin: 0px;
+}
+
+#contacto img{
+object-fit: cover; 
+width: 760px;
+height: 325px;
+object-position: top center;
+}
+
+#contacto h3{
+font-family:  'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+color: #4B4B4B;
+font-size: 20px;
+text-align: center;
+margin-top: 120px;	
+}
+
+#contacto p{
+font-family:  'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+color: #4B4B4B;
+font-size: 15px;
+text-align: center;	
+}
+
+footer i{
+	font-size: 35px;
+	color: #000000;
+	}
+footer{
+	padding: 30px 0px 30px;
+	}
+
+#contrata{
+	background-image:url("../img/IMG_0121.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 12% 0;
+	height: 300px
+}
+
+#contrata h1{
+font-family:'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+color: #FFFFFF;
+font-size: 25px;
+}
+
+#contrata p{
+	font-family: "Montserrat Light", "Montserrat Medium", "Montserrat ExtraBold", Montserrat;
+	color: #FFFFFF;
+	font-size: 15px;
+}
+
+#servicios h2{
+margin-top: 100px;
+margin-bottom: 100px;
+text-align: center;
+font-family:'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+font-weight: 700px;
+}
+
+#servicios h3{
+font-family:  'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+color: #000000;
+font-size: 20px;
+text-align: center;
+}
+
+#servicios h3:hover{
+	color: #4B4B4B;
+	font-size: 22px;
+}
+
+#servicios p{
+	font-family:  'Montserrat Light', 'Montserrat Medium', 'Montserrat ExtraBold', Montserrat;
+	color: #000000;
+	font-size: 15px;
+	text-align: center;
+}
+
+.center{
+	text-align: center;
+}
+
+#form{
+	margin-top: 100px;
+}
+
+
+
